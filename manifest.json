@@ -1,0 +1,14 @@
+"config": [
+    {
+      "type": "TEXTINPUT",
+      "id": "userInput",
+      "name": "User Question",
+      "defaultValue": "Summarize this data."
+    },
+    {
+      "type": "TEXTINPUT",
+      "id": "hfApiKey",
+      "name": "Hugging Face API Key",
+      "defaultValue": ""
+    }
+  ]
