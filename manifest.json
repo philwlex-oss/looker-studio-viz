@@ -1,4 +1,13 @@
-"config": [
+{
+  "manifestVersion": "1.0.0",
+  "name": "Hugging Face Summary",
+  "description": "Summarizes data using Hugging Face.",
+  "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+  "version": "1.0.0",
+  "author": "Your Name",
+  "websiteUrl": "https://example.com",
+  "script": "https://raw.githubusercontent.com/philwlex-oss/looker-studio-viz/main/index.js",
+  "config": [
     {
       "type": "TEXTINPUT",
       "id": "userInput",
@@ -12,3 +21,4 @@
       "defaultValue": ""
     }
   ]
+}
